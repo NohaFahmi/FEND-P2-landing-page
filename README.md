@@ -13,7 +13,7 @@ The aim of this project is to build a multi-section landing page, with a dynamic
 
 ### Live link
 
-[landing Page](https://kind-liskov-83a664.netlify.com/)
+[landing Page](https://landing-page-0002.netlify.app/)
 
 ### Getting started
 
